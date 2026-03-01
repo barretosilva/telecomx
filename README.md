@@ -58,6 +58,7 @@ Clone o repositório
 
 bash
 git clone https://github.com/barretosilva/telecomx.git
+
 cd telecomx
 Crie e ative um ambiente virtual
 
@@ -81,5 +82,6 @@ Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn
 Ambiente: Jupyter Notebook
 
 Ferramentas de apoio: VS Code, Git/GitHub
+
 
 Autor: André Barreto
