@@ -8,6 +8,8 @@ Identificar perfis de maior risco de churn.
 
 Fornecer recomendações práticas para reduzir a perda de clientes.
 
+Link do Colab: https://colab.research.google.com/drive/1Hgb-TQ2863s2HAK3khrVBrSmC_ooJPbL?usp=sharing
+
 🔄 Arquitetura do Pipeline ETL
 O fluxo de dados foi construído em três etapas principais:
 
@@ -85,3 +87,4 @@ Ferramentas de apoio: VS Code, Git/GitHub
 
 
 Autor: André Barreto
+
